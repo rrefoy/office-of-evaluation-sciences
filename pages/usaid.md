@@ -21,10 +21,12 @@ project_tags:
 
 <h2> Why the OES/USAID Partnership is important: </h2>
 
+ </section>
+ 
 <h2> How do OES and USAID work together? </h2>
 
  
-
+ </section>
 
 <h2> Portfolio </h2>
 

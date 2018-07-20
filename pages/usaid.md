@@ -20,13 +20,11 @@ project_tags:
   </section>
 
 <h2> Why the OES/USAID Partnership is important: </h2>
+USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OES/USAID partnership. 
 
- </section>
  
 <h2> How do OES and USAID work together? </h2>
 
- 
- </section>
 
 <h2> Portfolio </h2>
 

@@ -19,6 +19,10 @@ project_tags:
   </div>
   </section>
 
+<h2> Why the OES/USAID </h2>
+<h2> Partnership is important: </h2>
+
+
 <h2> Portfolio </h2>
 
 

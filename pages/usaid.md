@@ -24,6 +24,8 @@ USAID Administrator Mark Green and GSA Administrator Emily Murphy discuss the OE
 
  
 <h2> How do OES and USAID work together? </h2>
+Click [here] (https://docs.google.com/document/d/1BRldGYtHlL6-_wFhYXS1G3fwv1tudS3ORAh8Gt7j35g/edit) for an illustrated summary describing how OES and USAID work together.
+
 
 
 <h2> Portfolio </h2>

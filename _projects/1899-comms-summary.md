@@ -2,7 +2,7 @@
 title: OES Tips for Effective Communications
 permalink: /projects/commstips/
 tags: project
-image: /assets/img/project-images/commstips.jpg
+image: /assets/img/project-images/1899.jpg
 image-credit: https://unsplash.com/@helloquence
 year: 2018
 domain: Communications
@@ -15,4 +15,4 @@ Insert broad challenge of government comms.
 
 Insert additional text
 
-<a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1619-reentry-handbook.pdf">View Guide</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/files/1899.pdf">View Guide</a>

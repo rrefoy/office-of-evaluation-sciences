@@ -15,3 +15,4 @@ Insert broad challenge of government comms.
 
 Insert additional text
 
+<a class="usa-button" href="{{site.baseurl}}/assets/abstracts/1619-reentry-handbook.pdf">View Guide</a>

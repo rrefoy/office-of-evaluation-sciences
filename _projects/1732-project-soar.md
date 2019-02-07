@@ -2,7 +2,7 @@
 title:  Project SOAR
 permalink: /projects/project-soar/
 tags: project  
-image: /assets/img/project-images/1732.jpg  
+image: /assets/img/project-images/1732.png  
 # image-credit: https://commons.wikimedia.org/wiki/File:Drew_Hamilton_NYCHA_jeh.jpg
 analysis-plan: /assets/analysis/1732-project-soar.pdf
 abstract: 

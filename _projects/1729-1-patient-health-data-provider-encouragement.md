@@ -17,15 +17,15 @@ The Office of the National Coordinator for Health Information Technology (ONC) h
 
 ## What was the program change?
 
-ONC, Inova Health System, and OES designed an intervention to encourage physicians to place bulk orders for electronic blood glucose flow sheets for patients with diabetes. Providers were invited to attend a virtual training and offered in-person support, including a template for reaching out to patients.
+ONC, Inova Health System, and OES designed an intervention to encourage providers to place bulk orders for electronic blood glucose flow sheets for patients with diabetes. Providers were invited to attend a virtual training and offered in-person support, including a template for reaching out to patients.
 
 ## How did the evaluation work?
 
-The intervention was tested using a cluster randomized controlled trial with 20 primary care practices, totaling 68 physicians and 7,052 patients. Inova, OES, and ONC randomly assigned physicians in ten primary care practices (34 doctors and 3,411 patients) to receive encouragement to place bulk orders for electronic blood glucose flow sheets. The remaining ten primary care practices (34 doctors and 3,641 patients) were assigned to the control condition of business as usual. The team used data from Inova electronic health records to compare (1) provider flow sheet orders, (2) patient flow sheet completion rates, and (3) changes to active medications made following the intervention. 
+The intervention was tested using a cluster randomized controlled trial with 20 primary care practices, totaling 68 primary care doctors and 7,052 patients. Inova, OES, and ONC randomly assigned primary care doctors in ten primary care practices (34 doctors and 3,411 patients) to receive encouragement to place bulk orders for electronic blood glucose flow sheets. The remaining ten primary care practices (34 doctors and 3,641 patients) were assigned to the control condition of business as usual. The team used data from Inova electronic health records to compare (1) provider flow sheet orders, (2) patient flow sheet completion rates, and (3) changes to active medications made following the intervention. 
 
 ## What was the impact?
 
-The intervention yielded large and statistically significant effects across the three outcomes: Patients at practices randomly assigned to the treatment group were more likely to receive an order for electronic flow sheets, more likely to use the flow sheet following the provider training, and less likely to see a change to their active medications in the 14 weeks after the provider trainings.
+The intervention yielded large and statistically significant effects across the three outcomes: Patients at practices randomly assigned to the treatment group were more likely to receive an order for electronic flow sheets, more likely to use the flow sheet following the provider training, and less likely to see a change to their active medications in the 14 weeks after the provider trainings. 
 
 <i>To verify the upload date of our Analysis Plan, <a href="https://github.com/gsa-oes/office-of-evaluation-sciences/tree/master/assets/analysis">click here</a>.</i>
 
